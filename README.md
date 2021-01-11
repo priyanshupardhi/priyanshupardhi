@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**priyanshupardhi/priyanshupardhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### It's me Priyanshu👋
 
-Here are some ideas to get you started:
+[![HitCount](http://hits.dwyl.com/priyanshupardhi/priyanshupardhi.svg)](http://hits.dwyl.com/priyanshupardhi/priyanshupardhi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gist About me
+
+- 🎤 I am a passonate web developer
+- 🛸 Learning everyday, currently learning to Node.js, Java, TS etc ...
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- ⛹️‍ Hackathon is ❤
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+### Other places you can find me 
+
+✔ [See my Tweet](https://twitter.com/Codegasmic_Guy)
+
+☑ [My Instagram](https://www.instagram.com/codegasmic_guy/)
+
+Happy coding !!
+
+## My portfolio site
+
+https://priyanshupardhi.github.io/PortfolioWebsite
