@@ -2,8 +2,6 @@
 
 ### It's me Priyanshu👋
 
-[![HitCount](http://hits.dwyl.com/priyanshupardhi/priyanshupardhi.svg)](http://hits.dwyl.com/priyanshupardhi/priyanshupardhi)
-
 Gist About me
 
 - 🎤 I am a passonate web developer
