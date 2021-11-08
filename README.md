@@ -4,8 +4,8 @@
 
 Gist About me
 
-- 🎤 I am a passonate web developer
-- 🛸 Learning everyday, currently learning to Node.js, Java, TS etc ...
+- 🎤 I am a web developer
+- 🛸 Learning everyday, currently learning to Spring, Java, Node.js, , TS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - ⛹️‍ Hackathon is ❤
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
