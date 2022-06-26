@@ -14,7 +14,7 @@ Gist About me
 
 ✔ [See my Tweet](https://twitter.com/Codegasmic_Guy)
 
-☑ [My Instagram](https://www.instagram.com/codegasmic_guy/)
+☑ [My Instagram](https://www.instagram.com/pri_devv/)  
 
 Happy coding !!
 
