@@ -12,7 +12,7 @@ Gist About me
 
 ### Other places you can find me 
 
-✔ [See my Tweet](https://twitter.com/Codegasmic_Guy)
+✔ [See my Tweet](https://twitter.com/PriyanshuTWT)
 
 ☑ [My Instagram](https://www.instagram.com/pri_devv/)  
 
