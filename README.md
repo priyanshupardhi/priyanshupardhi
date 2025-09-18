@@ -107,10 +107,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=priyanshupardhi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=priyanshupardhi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=priyanshupardhi&theme=dark&hide_border=false)<br/>
 
-<br/>  
+---
+[![](https://visitcount.itsvg.in/api?id=priyanshupardhi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
 ## Recent Blog Posts  
